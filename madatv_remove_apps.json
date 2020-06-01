@@ -1,0 +1,8 @@
+{
+  "ATV - Remove apps": [
+    {
+      "TYPE": "jobType.PASSTHROUGH",
+      "SYNTAX": "pm uninstall com.facebook.katana 2>/dev/null && pm uninstall com.twitter.android 2>/dev/null && pm uninstall com.skype.raider 2>/dev/null && pm uninstall org.xbmc.kodi 2>/dev/null && pm uninstall com.netflix.mediaclient 2>/dev/null && pm uninstall com.mobdro.android 2>/dev/null && pm uninstall com.google.android.youtube.tv 2>/dev/null && pm uninstall com.android.chrome 2>/dev/null && pm uninstall com.buak.Link2SD 2>/dev/null && pm uninstall com.waxrain.airplaydmr 2>/dev/null"
+    }
+  ]
+}
